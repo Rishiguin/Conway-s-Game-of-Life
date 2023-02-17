@@ -23,12 +23,3 @@ If an alive cell is touching 2 or 3 alive cells is lives on
 But if it's touching less then 2 or more than 3 it dies
 
 If a dead cell is touching 3* alive cells it comes back to life
-
-Here's one to try:
-
-::: ⬜️ :::
-::: ::: ⬜️
-⬜️ ⬜️ ⬜️
-
-THE GLIDER
-Glides across the screen
